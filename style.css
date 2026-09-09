@@ -41,3 +41,18 @@ footer{
     padding: 20px;
     text-align: center;
 }
+
+.page-image {
+    width: 80%;
+    max-width: 800px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.page-image img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+}
